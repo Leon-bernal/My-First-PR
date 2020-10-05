@@ -1,2 +1,2 @@
 my first pr
-Hola mi nombre es Leon estoy iniciando en GitHub y me gustaria que fuera mi primer PR para el Hacktoberfest 2020
+Hi my name is Leon and I'll want that this repository will be my first PR in the Hacktoberfest 2020
